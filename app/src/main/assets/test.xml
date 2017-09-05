@@ -1,0 +1,2873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE little-ec >
+<little-ec>
+    <subdict char="A">
+        <entry>
+            <word search="A">A</word>
+            <variant>a</variant>
+            <pron>/eɪ/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <inflection>( pl A’s, a’s)</inflection>
+            <sense>
+                <def>英语的第1个字母</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="a">a</word>
+            <gram>(亦作 an)</gram>
+            <pron>/ə, eɪ/</pron>
+            <pos>determiner</pos>
+            <sense id="1">
+                <def>(用于单数可数名词前)一(个)</def>
+            </sense>
+            <sense id="2">
+                <def>一套；一副；一组</def>
+            </sense>
+            <sense id="3">
+                <def>( 用于某些短语前表示数量)</def>
+            </sense>
+            <sense id="4">
+                <def>某个(人)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="aback">aback</word>
+            <pron>/ə'bæk/</pron>
+            <pos>adv</pos>
+            <sense>
+                <sense-word>be taken aback</sense-word>
+                <def>大吃一惊；震惊</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abacus">abacus</word>
+            <pron>/'æbəkəs/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>算盘</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abandon">abandon</word>
+            <pron>/ ə'bændən/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>遗弃；离弃</def>
+            </sense>
+            <sense id="2">
+                <def>放弃；中止</def>
+            </sense>
+            <runon>
+                <runon-word>abandoned</runon-word>
+                <pos>adj</pos>
+            </runon>
+            <runon>
+                <runon-word>abandonment</runon-word>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abate">abate</word>
+            <pron>/ə'beɪt/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>减弱；减退</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abattoir">abattoir</word>
+            <pron>/'æbətwɑː(r)/</pron>
+            <style>[英]</style>
+            <gram>( 英/美 slaughterhouse)</gram>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>(牲畜)屠宰场</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abbey">abbey</word>
+            <pron>/'æbi/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>大修道院；大寺院</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abbreviate">abbreviate</word>
+            <pron>/ ə'briːvieɪt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>缩写</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abbreviation">abbreviation</word>
+            <pron>/əˌbriːvi'eɪʃn/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>缩写词；缩略语</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abdicate">abdicate</word>
+            <pron>/'æbdɪkeɪt/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <pos>[I]</pos>
+                <def>逊位；退位</def>
+            </sense>
+            <sense id="2">
+                <pos>[T]</pos>
+                <def>放弃(责任等)</def>
+            </sense>
+            <runon>
+                <runon-word>abdication</runon-word>
+                <pron>/ˌæbdɪ'keɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[C/U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abdomen">abdomen</word>
+            <pron>/'æbdəmən/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <style>[ 正式]</style>
+            <sense>
+                <def>腹(部)</def>
+            </sense>
+            <runon>
+                <runon-word>abdominal</runon-word>
+                <pron>/æb'dɒmɪnl/</pron>
+                <pos>adj</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abduct">abduct</word>
+            <pron>/æb'dʌkt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>绑架；诱拐</def>
+            </sense>
+            <runon>
+                <runon-word>abduction</runon-word>
+                <pron>/æb'dʌkʃn/</pron>
+                <pos>n</pos>
+                <pos>[C/U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="aberration">aberration</word>
+            <pron>/ˌæbə'reɪʃn/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>偏离常轨；反常</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abet">abet</word>
+            <pron>/ə'bet/</pron>
+            <pos>v</pos>
+            <inflection>(abets, abetting, abetted)</inflection>
+            <sense>
+                <def>见 aid2 and abet (sb)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abhor">abhor</word>
+            <pron>/ əb'hɔː(r)/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <inflection>(abhors, abhorring, abhorred)</inflection>
+            <style>[正式]</style>
+            <sense>
+                <def>憎恨；厌恶</def>
+            </sense>
+            <runon>
+                <runon-word>abhorrence</runon-word>
+                <pron>/əb'hɒrəns/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+                <style>[ 正式]</style>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abhorrent">abhorrent</word>
+            <pron>/əb'hɒrənt/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>使人厌恶的；可憎的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abide">abide</word>
+            <pron>/ə'baɪd/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>忍受；容忍</def>
+            </sense>
+            <idiom>
+                <idiom-word>can’t abide sb/sth</idiom-word>
+                <sense>
+                    <def>无法忍受…</def>
+                </sense>
+            </idiom>
+            <phrase>
+                <phrase-word>abide by sth</phrase-word>
+                <sense>
+                    <def>遵守(规则)</def>
+                </sense>
+            </phrase>
+        </entry>
+        <entry>
+            <word search="abiding">abiding</word>
+            <pron>/ə'baɪdɪŋ/</pron>
+            <pos>adj</pos>
+            <style>[作定语]</style>
+            <sense>
+                <def>( 情感或记忆)持久的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ability">ability</word>
+            <pron>/ ə'bɪləti/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <inflection>(pl abilities)</inflection>
+            <sense>
+                <def>能力；才能</def>
+                <antonym>inability</antonym>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abject">abject</word>
+            <pron>/'æbdʒekt/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>可怜的；悲惨的</def>
+            </sense>
+            <sense id="2">
+                <def>无耻的；卑鄙的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ablaze">ablaze</word>
+            <pron>/ə'bleɪz/</pron>
+            <pos>adj</pos>
+            <style>[作表语]</style>
+            <sense>
+                <def>燃烧的；着火的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="able">able</word>
+            <pron>/'eɪbl/</pron>
+            <pos>adj</pos>
+            <inflection>(abler, ablest)</inflection>
+            <sense id="1">
+                <def>能够做…的</def>
+                <antonym>unable</antonym>
+            </sense>
+            <sense id="2">
+                <def>能力出众的；有才干的</def>
+            </sense>
+            <idiom>
+                <idiom-word>be able to do sth</idiom-word>
+                <sense>
+                    <def>有能力做…</def>
+                </sense>
+            </idiom>
+            <runon>
+                <runon-word>ably</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="able-bodied">able-bodied</word>
+            <pron>/ ˌeɪbl'bɒdɪd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>健壮的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abnormal">abnormal</word>
+            <pron>/æb'nɔːml/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>异常的；变态的</def>
+            </sense>
+            <runon>
+                <runon-word>abnormally</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abnormality">abnormality</word>
+            <pron>/ˌæbnɔː'mæləti/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <inflection>(pl abnormalities)</inflection>
+            <sense>
+                <def>畸形；(体内)紊乱</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="aboard">aboard</word>
+            <pron>/ə'bɔːd/</pron>
+            <pos>adv, prep</pos>
+            <sense>
+                <def>在飞机(或船、车)上；上飞机(或船、车)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abode">abode</word>
+            <pron>/ə'bəʊd/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>住所；家宅</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abolish">abolish</word>
+            <pron>/ə'bɒlɪʃ/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>废除(法律、制度)</def>
+            </sense>
+            <runon>
+                <runon-word>abolition</runon-word>
+                <pron>/ˌæbə'lɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abominable">abominable</word>
+            <pron>/ə'bɒmɪnəbl/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>可恶的；讨厌的</def>
+            </sense>
+            <sense id="2">
+                <def>极坏的</def>
+            </sense>
+            <runon>
+                <runon-word>abominably</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="Aboriginal">Aboriginal</word>
+            <pron>/ˌæbə'rɪdʒənl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>(澳大利亚)土著居民的</def>
+            </sense>
+            <runon>
+                <runon-word>Aborigine</runon-word>
+                <pron>/ˌæbə'rɪdʒəni/</pron>
+                <pos>n</pos>
+                <pos>[C]</pos>
+                <sense>
+                    <def>(澳大利亚)土著居民</def>
+                </sense>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abort">abort</word>
+            <pron>/ə'bɔːt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>中止；使夭折</def>
+            </sense>
+            <sense id="2">
+                <def>使流产；堕(胎)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abortion">abortion</word>
+            <pron>/ə'bɔːʃn/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <sense>
+                <def>人工流产</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abortive">abortive</word>
+            <pron>/ə'bɔːtɪv/</pron>
+            <pos>adj</pos>
+            <style>[作定语]</style>
+            <sense>
+                <def>落空的；失败的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abound">abound</word>
+            <pron>/ə'baʊnd/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <sense id="1">
+                <style>[正式]</style>
+                <def>大量存在</def>
+            </sense>
+            <sense id="2">
+                <gram>(in, with)</gram>
+                <def>充满；富于</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="about">about</word>
+            <homo>1</homo>
+            <pron>/ə'baʊt/</pron>
+            <pos>prep</pos>
+            <sense id="1">
+                <def>关于；涉及</def>
+            </sense>
+            <sense id="2">
+                <style>[英]</style>
+                <gram>( 美 around)</gram>
+                <def>在…周围；在…各处</def>
+            </sense>
+            <idiom>
+                <idiom-word>What/How about ...?</idiom-word>
+                <sense>
+                    <def>(用于提出建议或征求意见)…怎么样？</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="about">about</word>
+            <homo>2</homo>
+            <pron>/ə'baʊt/</pron>
+            <pos>adv</pos>
+            <sense id="1">
+                <def>大约；大概</def>
+            </sense>
+            <sense id="2">
+                <style>[英]</style>
+                <gram>( 美 around)</gram>
+                <def>各处；到处</def>
+            </sense>
+            <sense id="3">
+                <style>[英，非正式]</style>
+                <gram>( 美 around)</gram>
+                <def>在近处</def>
+            </sense>
+            <idiom>
+                <idiom-word>be about to do sth</idiom-word>
+                <sense>
+                    <def>刚要做…；即将做…</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="above">above</word>
+            <homo>1</homo>
+            <pron>/ə'bʌv/</pron>
+            <pos>adv</pos>
+            <pos>prep</pos>
+            <sense id="1">
+                <def>在上面；向高处；高于</def>
+            </sense>
+            <sense id="2">
+                <def>多于；大于；超过</def>
+            </sense>
+            <sense id="3">
+                <def>不受…影响；免于</def>
+            </sense>
+            <sense id="4">
+                <def>不屑于</def>
+            </sense>
+            <idiom>
+                <idiom-word>above all</idiom-word>
+                <sense>
+                    <def>最重要的是；首先</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="above">above</word>
+            <homo>2</homo>
+            <pron>/ə'bʌv/</pron>
+            <pos>adj</pos>
+            <pos>adv</pos>
+            <sense>
+                <def>上述的；在上文</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="above board">aˌbove 'board</word>
+            <pos>adj</pos>
+            <style>[作表语]</style>
+            <sense>
+                <def>光明正大的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abrasive">abrasive</word>
+            <pron>/ə'breɪsɪv/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>研磨用的</def>
+            </sense>
+            <sense id="2">
+                <def>粗暴的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abreast">abreast</word>
+            <pron>/ə'brest/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>并排；并肩</def>
+            </sense>
+            <idiom>
+                <idiom-word>keep (sb) abreast of sth</idiom-word>
+                <sense>
+                    <def>使(某人)跟上…；使(某人)及时了解…</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="abridged">abridged</word>
+            <pron>/ə'brɪdʒd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>节略的；删节的</def>
+                <antonym>unabridged</antonym>
+            </sense>
+            <runon>
+                <runon-word>abridge</runon-word>
+                <pron>/ə'brɪdʒ/</pron>
+                <pos>v</pos>
+                <pos>[T]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abroad">abroad</word>
+            <pron>/ə'brɔːd/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>在国外；到国外</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abrupt">abrupt</word>
+            <pron>/ə'brʌpt/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>突然的；意外的</def>
+            </sense>
+            <sense id="2">
+                <def>鲁莽的；唐突的</def>
+            </sense>
+            <runon>
+                <runon-word>abruptly</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abscess">abscess</word>
+            <pron>/'æbses/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>脓肿</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abscond">abscond</word>
+            <pron>/əb'skɒnd/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>潜逃</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absence">absence</word>
+            <pron>/'æbsəns/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C/U]</pos>
+                <def>缺席</def>
+            </sense>
+            <sense id="2">
+                <pos>[U]</pos>
+                <def>缺乏</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absent">absent</word>
+            <pron>/ 'æbsənt/</pron>
+            <pos>adj</pos>
+            <sense>
+                <gram>(from)</gram>
+                <def>缺席的；不在的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absentee">absentee</word>
+            <pron>/ˌæbsən'tiː/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>不在者；缺席者</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absently">absently</word>
+            <pron>/'æbsəntli/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>心不在焉地</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absent-minded">absent-minded</word>
+            <pron>/ˌæbsənt'maɪndɪd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>心不在焉的；健忘的</def>
+            </sense>
+            <runon>
+                <runon-word>absent-mindedly</runon-word>
+                <pos>adv</pos>
+            </runon>
+            <runon>
+                <runon-word>absent-mindedness</runon-word>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="absolute">absolute</word>
+            <pron>/'æbsəluːt/</pron>
+            <pos>adj</pos>
+            <style>[作定语]</style>
+            <sense id="1">
+                <def>绝对的；完全的</def>
+            </sense>
+            <sense id="2">
+                <def>确实的；无疑的</def>
+            </sense>
+            <sense id="3">
+                <def>独裁的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absolutely">absolutely</word>
+            <pron>/'æbsəluːtli/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>绝对地；完全地</def>
+            </sense>
+            <idiom>
+                <idiom-word>Absolutely.</idiom-word>
+                <sense>
+                    <def>(表示赞同)完全对，当然</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="absolve">absolve</word>
+            <pron>/əb'zɒlv/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>赦免；宽恕</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absorb">absorb</word>
+            <pron>/əb'sɔːb/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>吸收(液体)</def>
+            </sense>
+            <sense id="2">
+                <def>吸引；占据</def>
+            </sense>
+            <sense id="3">
+                <def>理解</def>
+            </sense>
+            <idiom>
+                <idiom-word>be absorbed in sth</idiom-word>
+                <sense>
+                    <def>被…完全吸引；全神贯注于</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="absorbent">absorbent</word>
+            <pron>/əb'sɔːbənt/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>能吸收(液体)的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abstain">abstain</word>
+            <pron>/əb'steɪn/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <style>[正式]</style>
+            <sense id="1">
+                <gram>(from)</gram>
+                <def>戒除</def>
+            </sense>
+            <sense id="2">
+                <def>弃权</def>
+            </sense>
+            <runon>
+                <runon-word>abstention</runon-word>
+                <pron>/əb'stenʃn/</pron>
+                <pos>n</pos>
+                <pos>[C/U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abstinence">abstinence</word>
+            <pron>/'æbstɪnəns/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>戒除；节制</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abstract">abstract</word>
+            <homo>1</homo>
+            <pron>/'æbstrækt/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>抽象的</def>
+            </sense>
+            <sense id="2">
+                <def>(艺术)抽象派的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abstract">abstract</word>
+            <homo>2</homo>
+            <pron>/'æbstrækt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>(书或文章的)摘要</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="absurd">absurd</word>
+            <pron>/əb'sɜːd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>荒谬的；荒唐的</def>
+            </sense>
+            <runon>
+                <runon-word>absurdity</runon-word>
+                <pos>n</pos>
+                <pos>[C/U]</pos>
+            </runon>
+            <runon>
+                <runon-word>absurdly</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abundance">abundance</word>
+            <pron>/ə'bʌndəns/</pron>
+            <pos>n</pos>
+            <style>[U/sing]</style>
+            <style>[正式]</style>
+            <sense>
+                <def>丰富；充足</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abundant">abundant</word>
+            <pron>/ə'bʌndənt/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>丰富的；充足的</def>
+            </sense>
+            <runon>
+                <runon-word>abundantly</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abuse">abuse</word>
+            <homo>1</homo>
+            <pron>/ə'bjuːs/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C/U]</pos>
+                <def>滥用；妄用</def>
+            </sense>
+            <sense id="2">
+                <pos>[U]</pos>
+                <def>虐待；伤害</def>
+            </sense>
+            <sense id="3">
+                <pos>[U]</pos>
+                <def>辱骂</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abuse">abuse</word>
+            <homo>2</homo>
+            <pron>/ə'bjuːz/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>虐待；伤害</def>
+            </sense>
+            <sense id="2">
+                <def>滥用；妄用</def>
+            </sense>
+            <sense id="3">
+                <def>辱骂</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abusive">abusive</word>
+            <pron>/ə'bjuːsɪv/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>谩骂的；恶语伤人的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="abysmal">abysmal</word>
+            <pron>/ə'bɪzməl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>极坏的；糟透的</def>
+            </sense>
+            <runon>
+                <runon-word>abysmally</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="abyss">abyss</word>
+            <pron>/ə'bɪs/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>绝境；深渊</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="academic">academic</word>
+            <homo>1</homo>
+            <pron>/ˌækə'demɪk/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>学校的；学术的</def>
+            </sense>
+            <sense id="2">
+                <def>纯理论的</def>
+            </sense>
+            <sense id="3">
+                <def>学业优异的</def>
+            </sense>
+            <sense id="4">
+                <def>不切实际的；学究式的</def>
+            </sense>
+            <runon>
+                <runon-word>academically</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="academic">academic</word>
+            <homo>2</homo>
+            <pron>/ˌækə'demɪk/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>大学老师；(大学里的)研究员</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="academy">academy</word>
+            <pron>/ə'kædəmi/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <inflection>(pl academies)</inflection>
+            <sense id="1">
+                <def>专科学院</def>
+            </sense>
+            <sense id="2">
+                <def>学会；研究院</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accelerate">accelerate</word>
+            <pron>/ək'seləreɪt/</pron>
+            <pos>v</pos>
+            <pos>[I/T]</pos>
+            <sense>
+                <def>(使)加快；(使)增速；促进</def>
+            </sense>
+            <runon>
+                <runon-word>acceleration</runon-word>
+                <pron>/əkˌselə'reɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accelerator">accelerator</word>
+            <pron>/ək'seləreɪtə(r)/</pron>
+            <gram>( 美亦作 gas pedal)</gram>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>( 汽车的)油门</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accent">accent</word>
+            <pron>/'æksənt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense id="1">
+                <def>口音；腔调</def>
+            </sense>
+            <sense id="2">
+                <def>重音符号</def>
+            </sense>
+            <sense id="3">
+                <def>强调；重点</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accentuate">accentuate</word>
+            <pron>/ək'sentʃueɪt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>强调；加重；突出</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accept">accept</word>
+            <pron>/ək'sept/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <style>[ I/T]</style>
+                <def>接受；收受</def>
+            </sense>
+            <sense id="2">
+                <pos>[T]</pos>
+                <def>承认(不快之事)</def>
+            </sense>
+            <sense id="3">
+                <pos>[T]</pos>
+                <def>接纳，吸收(成员)</def>
+            </sense>
+            <sense id="4">
+                <pos>[T]</pos>
+                <def>承担(责任)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acceptable">acceptable</word>
+            <pron>/ək'septəbl/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>合意的；可接受的</def>
+            </sense>
+            <sense id="2">
+                <def>容许的；赞同的</def>
+                <antonym>unacceptable</antonym>
+            </sense>
+            <runon>
+                <runon-word>acceptability</runon-word>
+                <pron>/əkˌseptə'bɪləti/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="acceptance">acceptance</word>
+            <pron>/ək'septəns/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <sense>
+                <def>接受；承认</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="access">access</word>
+            <homo>1</homo>
+            <pron>/'ækses/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense id="1">
+                <def>享用的机会；接近的机会</def>
+            </sense>
+            <sense id="2">
+                <def>(进入、接近的)通道，途径</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="access">access</word>
+            <homo>2</homo>
+            <pron>/'ækses/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>(尤指通过计算机)获得(信息)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accessible">accessible</word>
+            <pron>/ək'sesəbl/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>易得到的；易接近的</def>
+                <antonym>inaccessible</antonym>
+            </sense>
+            <sense id="2">
+                <def>易懂的</def>
+            </sense>
+            <runon>
+                <runon-word>accessibility</runon-word>
+                <pron>/əkˌsesə'bɪləti/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accessory">accessory</word>
+            <pron>/ək'sesəri/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <inflection>(pl accessories)</inflection>
+            <sense id="1">
+                <def>附属品；配件</def>
+            </sense>
+            <sense id="2">
+                <style>[正式]</style>
+                <def>同谋；从犯</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accident">accident</word>
+            <pron>/'æksɪdənt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>事故；意外</def>
+            </sense>
+            <idiom>
+                <idiom-word>by accident</idiom-word>
+                <sense>
+                    <def>偶然地；意外地</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="accidental">accidental</word>
+            <pron>/ˌæksɪ'dentl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>意外的；偶然的</def>
+            </sense>
+            <runon>
+                <runon-word>accidentally</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="acclaim">acclaim</word>
+            <pron>/ə'kleɪm/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>赞扬；称赞</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acclimatize">acclimatize</word>
+            <gram>(英亦作 -ise)</gram>
+            <pron>/ ə'klaɪmətaɪz/</pron>
+            <pos>v</pos>
+            <style>[ I/T]</style>
+            <sense>
+                <gram>( to)</gram>
+                <def>(使)适应(新的气候或环境)</def>
+            </sense>
+            <runon>
+                <runon-word>acclimatization</runon-word>
+                <pron>/əˌklaɪmətaɪ'zeɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accolade">accolade</word>
+            <pron>/'ækəleɪd/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>嘉奖；赞许</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accommodate">accommodate</word>
+            <pron>/ə'kɒmədeɪt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>为…提供空间</def>
+            </sense>
+            <sense id="2">
+                <def>给…提供方便</def>
+            </sense>
+            <sense id="3">
+                <def>向…提供住处</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accommodating">accommodating</word>
+            <pron>/ə'kɒmədeɪtɪŋ/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>与人方便的；肯通融的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accommodation">accommodation</word>
+            <pron>/əˌkɒmə'deɪʃn/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <gram>(美亦作 accommodations [pl])</gram>
+            <sense>
+                <def>住所；住处</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accompaniment">accompaniment</word>
+            <pron>/ə'kʌmpənimənt/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C]</pos>
+                <style>[正式]</style>
+                <def>佐餐食物</def>
+            </sense>
+            <sense id="2">
+                <pos>[C/U]</pos>
+                <def>伴奏；伴唱</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accompany">accompany</word>
+            <pron>/ə'kʌmpəni/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <inflection>(accompanies, accompanying, accompanied)</inflection>
+            <sense id="1">
+                <style>[正式]</style>
+                <def>陪同；陪伴</def>
+            </sense>
+            <sense id="2">
+                <def>伴随</def>
+            </sense>
+            <sense id="3">
+                <def>为…伴奏；为…伴唱</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accomplice">accomplice</word>
+            <pron>/ ə'kʌmplɪs/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>共犯；同谋；帮凶</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accomplish">accomplish</word>
+            <pron>/ə'kʌmplɪʃ/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>完成；实现；使成功</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accomplished">accomplished</word>
+            <pron>/ə'kʌmplɪʃt/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>有造诣的；有才艺的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accomplishment">accomplishment</word>
+            <pron>/ə'kʌmplɪʃmənt/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[U]</pos>
+                <def>完成；实现</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <style>[正式]</style>
+                <def>成就；技能</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accord">accord</word>
+            <homo>1</homo>
+            <pron>/ə'kɔːd/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[U]</pos>
+                <def>符合；一致</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <def>条约；协议</def>
+            </sense>
+            <idiom>
+                <idiom-word>in accord with</idiom-word>
+                <sense>
+                    <def>与…一致</def>
+                </sense>
+            </idiom>
+            <idiom>
+                <idiom-word>of your own accord</idiom-word>
+                <sense>
+                    <def>出于自愿；主动地</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="accord">accord</word>
+            <homo>2</homo>
+            <pron>/ə'kɔːd/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <pos>[T]</pos>
+                <style>[正式]</style>
+                <def>授予；给予</def>
+            </sense>
+            <sense id="2">
+                <pos>[I]</pos>
+                <gram>(with)</gram>
+                <def>符合；相一致</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accordance">accordance</word>
+            <pron>/ə'kɔːdns/</pron>
+            <pos>n</pos>
+            <style>[正式]</style>
+            <sense>
+                <sense-word>in accordance with</sense-word>
+                <def>与…一致；依照；根据</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accordingly">accordingly</word>
+            <pron>/ə'kɔːdɪŋli/</pron>
+            <pos>adv</pos>
+            <sense id="1">
+                <def>照着；相应地</def>
+            </sense>
+            <sense id="2">
+                <def>因此；所以</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="according to">according to</word>
+            <pron>/ə'kɔːdɪŋ tə/</pron>
+            <pos>prep</pos>
+            <sense id="1">
+                <def>按…所说；据…所载</def>
+            </sense>
+            <sense id="2">
+                <def>根据；按照</def>
+            </sense>
+            <sense id="3">
+                <def>依…而定</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accordion">accordion</word>
+            <pron>/ə'kɔːdiən/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>手风琴</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accost">accost</word>
+            <pron>/ə'kɒst/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>(贸然)跟…搭讪</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="account">account</word>
+            <homo>1</homo>
+            <pron>/ə'kaʊnt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense id="1">
+                <def>记述；描述；报道</def>
+            </sense>
+            <sense id="2">
+                <gram>(亦作 bank account)</gram>
+                <def>账户</def>
+            </sense>
+            <idiom>
+                <idiom-word>by all accounts</idiom-word>
+                <sense>
+                    <def>据说；据传</def>
+                </sense>
+            </idiom>
+            <idiom>
+                <idiom-word>on account of sth</idiom-word>
+                <sense>
+                    <style>[正式]</style>
+                    <def>因为；由于</def>
+                </sense>
+            </idiom>
+            <idiom>
+                <idiom-word>on no account/not on any account</idiom-word>
+                <sense>
+                    <style>[ 英]</style>
+                    <def>决不；绝对不</def>
+                </sense>
+            </idiom>
+            <idiom>
+                <idiom-word>take sth into account/take account of sth</idiom-word>
+                <sense>
+                    <def>考虑到</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="account">account</word>
+            <homo>2</homo>
+            <pron>/ə'kaʊnt/</pron>
+            <pos>v</pos>
+            <phrase>
+                <phrase-word>account for sth</phrase-word>
+                <sense id="1">
+                    <def>导致；是…的原因</def>
+                </sense>
+                <sense id="2">
+                    <def>解释；说明</def>
+                </sense>
+            </phrase>
+        </entry>
+        <entry>
+            <word search="accountable">accountable</word>
+            <pron>/ ə'kaʊntəbl/</pron>
+            <pos>adj</pos>
+            <style>[作表语]</style>
+            <sense>
+                <def>应负责任的；应作解释的</def>
+                <antonym>unaccountable</antonym>
+            </sense>
+            <runon>
+                <runon-word>accountability</runon-word>
+                <pron>/əˌkaʊntə'bɪləti/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accountancy">accountancy</word>
+            <pron>/ə'kaʊntənsi/</pron>
+            <style>[ 英]</style>
+            <gram>( 美 accounting)</gram>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>会计工作；会计职位</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accountant">accountant</word>
+            <pron>/ə'kaʊntənt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>会计；会计师</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accounts">accounts</word>
+            <pron>/ə'kaʊnts/</pron>
+            <pos>n</pos>
+            <pos>[pl]</pos>
+            <sense>
+                <def>账；账目</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accredited">accredited</word>
+            <pron>/ə'kredɪtɪd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>经鉴定合格的；被正式认可的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accumulate">accumulate</word>
+            <pron>/ə'kjuːmjəleɪt/</pron>
+            <pos>v</pos>
+            <pos>[I/T]</pos>
+            <sense>
+                <def>积累；积聚；堆积</def>
+            </sense>
+            <runon>
+                <runon-word>accumulation</runon-word>
+                <pron>/əˌkjuːmjə'leɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accuracy">accuracy</word>
+            <pron>/'ækjərəsi/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>准确(性)；精确(性)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accurate">accurate</word>
+            <pron>/'ækjərət/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>准确的；精确的</def>
+                <antonym>inaccurate</antonym>
+            </sense>
+            <runon>
+                <runon-word>accurately</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accusation">accusation</word>
+            <pron>/ˌækju'zeɪʃn/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>指控；控告</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accuse">accuse</word>
+            <pron>/ə'kjuːz/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <gram>(of)</gram>
+                <def>指控；控告</def>
+            </sense>
+            <runon>
+                <runon-word>accuser</runon-word>
+                <pos>n</pos>
+                <pos>[C]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accused, the">accused, the</word>
+            <pron>/ə'kjuːzd/</pron>
+            <pos>n</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>被告</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="accusing">accusing</word>
+            <pron>/ə'kjuːzɪŋ/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>指责的；责备的</def>
+            </sense>
+            <runon>
+                <runon-word>accusingly</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="accustom">accustom</word>
+            <pron>/ə'kʌstəm/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>使习惯于</def>
+            </sense>
+            <idiom>
+                <idiom-word>accustom yourself to sth/doing sth</idiom-word>
+                <sense>
+                    <def>使自己习惯于</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="accustomed">accustomed</word>
+            <pron>/ə'kʌstəmd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>习惯的；惯常的</def>
+            </sense>
+            <idiom>
+                <idiom-word>be accustomed to sth/doing sth</idiom-word>
+                <sense>
+                    <def>习惯于</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="ace">ace</word>
+            <homo>1</homo>
+            <pron>/eɪs/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense id="1">
+                <def>幺点牌；A纸牌</def>
+            </sense>
+            <sense id="2">
+                <def>(网球比赛中的)发球得分，爱司球</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ace">ace</word>
+            <homo>2</homo>
+            <pron>/eɪs/</pron>
+            <pos>adj</pos>
+            <style>[非正式]</style>
+            <sense>
+                <def>一流的；杰出的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ache">ache</word>
+            <homo>1</homo>
+            <pron>/eɪk/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>疼痛</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ache">ache</word>
+            <homo>2</homo>
+            <pron>/eɪk/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <sense id="1">
+                <def>痛</def>
+            </sense>
+            <sense id="2">
+                <def>渴望</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="achieve">achieve</word>
+            <pron>/ə'tʃiːv/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>完成；实现</def>
+            </sense>
+            <runon>
+                <runon-word>achievable</runon-word>
+                <pos>adj</pos>
+                <sense>
+                    <def>可以完成的；可以实现的</def>
+                </sense>
+            </runon>
+            <runon>
+                <runon-word>achiever</runon-word>
+                <pos>n</pos>
+                <pos>[C]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="achievement">achievement</word>
+            <pron>/ə'tʃiːvmənt/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C]</pos>
+                <def>成就；成绩</def>
+            </sense>
+            <sense id="2">
+                <pos>[U]</pos>
+                <def>完成；达到；实现</def>
+            </sense>
+            <idiom>
+                <idiom-word>sense of achievement</idiom-word>
+                <sense>
+                    <def>成就感</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="acid">acid</word>
+            <homo>1</homo>
+            <pron>/'æsɪd/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <sense>
+                <def>酸</def>
+            </sense>
+            <runon>
+                <runon-word>acidity</runon-word>
+                <pron>/ə'sɪdəti/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="acid">acid</word>
+            <homo>2</homo>
+            <pron>/'æsɪd/</pron>
+            <pos>adj</pos>
+            <gram>(亦作 acidic /ə'sɪdɪk/)</gram>
+            <sense id="1">
+                <def>酸的；酸性的；酸味的</def>
+            </sense>
+            <sense id="2">
+                <def>尖酸的；刻薄的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acid rain">ˌacid 'rain</word>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>酸雨</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acknowledge">acknowledge</word>
+            <pron>/ək'nɒlɪdʒ/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>承认</def>
+            </sense>
+            <sense id="2">
+                <def>确认(收悉)</def>
+            </sense>
+            <sense id="3">
+                <def>搭理；理会</def>
+            </sense>
+            <sense id="4">
+                <def>对…表示谢意</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acknowledgement">acknowledgement</word>
+            <gram>(亦作 acknowledgment)</gram>
+            <pron>/ək'nɒlɪdʒmənt/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C/U]</pos>
+                <def>承认</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <def>回执；收悉通知</def>
+            </sense>
+            <sense id="3">
+                <pos>[C]</pos>
+                <def>(作者的)致谢，感谢</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acne">acne</word>
+            <pron>/'ækni/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>痤疮；粉刺</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acorn">acorn</word>
+            <pron>/'eɪkɔːn/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>橡子</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acoustic">acoustic</word>
+            <pron>/ ə'kuːstɪk/</pron>
+            <pos>adj</pos>
+            <style>[作定语]</style>
+            <sense id="1">
+                <def>(乐器)原声的，不用电传音的</def>
+            </sense>
+            <sense id="2">
+                <def>声音的；听觉的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acoustics">acoustics</word>
+            <pron>/ə'kuːstɪks/</pron>
+            <pos>n</pos>
+            <pos>[pl]</pos>
+            <sense>
+                <def>传音效果；音响效果</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acquaintance">acquaintance</word>
+            <pron>/ ə'kweɪntəns/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C]</pos>
+                <def>熟人</def>
+            </sense>
+            <sense id="2">
+                <pos>[U]</pos>
+                <gram>(with)</gram>
+                <def>熟悉</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acquainted">acquainted</word>
+            <pron>/ə'kweɪntɪd/</pron>
+            <pos>adj</pos>
+            <style>[作表语]</style>
+            <style>[ 正式]</style>
+            <sense id="1">
+                <def>相识的；泛泛之交的</def>
+            </sense>
+            <sense id="2">
+                <gram>(with)</gram>
+                <def>熟悉的；了解的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acquiesce">acquiesce</word>
+            <pron>/ ˌækwi'es/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <sense>
+                <gram>(in)</gram>
+                <style>[正式]</style>
+                <def>默认；默许</def>
+            </sense>
+            <runon>
+                <runon-word>acquiescence</runon-word>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="acquire">acquire</word>
+            <pron>/ə'kwaɪə(r)/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>取得；得到</def>
+            </sense>
+            <sense id="2">
+                <def>学到；习得</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acquisition">acquisition</word>
+            <pron>/ ˌækwɪ'zɪʃn/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[U]</pos>
+                <def>取得；获得；习得</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <def>获得物；购买物</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acquit">acquit</word>
+            <pron>/ə'kwɪt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <inflection>(acquits, acquitting, acquitted)</inflection>
+            <sense>
+                <def>宣告…无罪</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acquittal">acquittal</word>
+            <pron>/ ə'kwɪtl/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <sense>
+                <def>宣告无罪；无罪开释</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acre">acre</word>
+            <pron>/'eɪkə(r)/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>英亩</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acrid">acrid</word>
+            <pron>/ 'ækrɪd/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>(气味)辛辣的，刺鼻的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acrimonious">acrimonious</word>
+            <pron>/ˌækrɪ'məʊniəs/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>尖刻的；怨恨的</def>
+            </sense>
+            <runon>
+                <runon-word>acrimony</runon-word>
+                <pron>/'ækrɪməni/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="acrobat">acrobat</word>
+            <pron>/'ækrəbæt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>杂技演员</def>
+            </sense>
+            <runon>
+                <runon-word>acrobatic</runon-word>
+                <pron>/ˌækrə'bætɪk/</pron>
+                <pos>adj</pos>
+            </runon>
+            <runon>
+                <runon-word>acrobatics</runon-word>
+                <pron>/ˌækrə'bætɪks/</pron>
+                <pos>n</pos>
+                <pos>[pl]</pos>
+                <sense>
+                    <def>杂技；杂技表演</def>
+                </sense>
+            </runon>
+        </entry>
+        <entry>
+            <word search="acronym">acronym</word>
+            <pron>/'ækrənɪm/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>首字母缩略词</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="across">across</word>
+            <pron>/ ə'krɒs/</pron>
+            <pos>adv, prep</pos>
+            <sense id="1">
+                <def>越过；穿过</def>
+            </sense>
+            <sense id="2">
+                <def>在…的另一边；在对面</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acrylic">acrylic</word>
+            <pron>/ə'krɪlɪk/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>丙烯酸的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="act">act</word>
+            <homo>1</homo>
+            <pron>/ækt/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <pos>[I]</pos>
+                <def>举止；表现</def>
+            </sense>
+            <sense id="2">
+                <pos>[I]</pos>
+                <def>做事；行动</def>
+            </sense>
+            <sense id="3">
+                <style>[ I/T]</style>
+                <def>表演；扮演</def>
+            </sense>
+            <phrase>
+                <phrase-word>act as sth</phrase-word>
+                <sense id="1">
+                    <def>担任；充当</def>
+                </sense>
+                <sense id="2">
+                    <def>有…效果；起…作用</def>
+                </sense>
+            </phrase>
+            <phrase>
+                <phrase-word>act sth out</phrase-word>
+                <sense>
+                    <def>把…表演出来</def>
+                </sense>
+            </phrase>
+            <phrase>
+                <phrase-word>act up</phrase-word>
+                <sense>
+                    <def>(尤指孩子)捣乱，耍脾气</def>
+                </sense>
+            </phrase>
+        </entry>
+        <entry>
+            <word search="act">act</word>
+            <homo>2</homo>
+            <pron>/ækt/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C]</pos>
+                <def>行为；举动</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <def>法案；法令</def>
+            </sense>
+            <sense id="3">
+                <pos>[C]</pos>
+                <def>(戏剧的)幕</def>
+            </sense>
+            <sense id="4">
+                <pos>[sing]</pos>
+                <def>装模作样；装腔作势</def>
+            </sense>
+            <idiom>
+                <idiom-word>in the act (of doing sth)</idiom-word>
+                <sense>
+                    <def>当场</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="acting">acting</word>
+            <homo>1</homo>
+            <pron>/ 'æktɪŋ/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>代理的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acting">acting</word>
+            <homo>2</homo>
+            <pron>/'æktɪŋ/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>表演；演戏</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="action">action</word>
+            <pron>/'ækʃn/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C/U]</pos>
+                <def>行为；行动</def>
+            </sense>
+            <sense id="2">
+                <pos>[U]</pos>
+                <def>战斗</def>
+            </sense>
+            <sense id="3">
+                <pos>[U]</pos>
+                <def>情节；细节</def>
+            </sense>
+            <idiom>
+                <idiom-word>be all talk and no action</idiom-word>
+                <sense>
+                    <def>光说不做</def>
+                </sense>
+            </idiom>
+            <idiom>
+                <idiom-word>out of action</idiom-word>
+                <sense>
+                    <def>不(再)起作用；不(再)运转</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="activate">activate</word>
+            <pron>/'æktɪveɪt/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>使活动；启动；使起作用</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="active">active</word>
+            <pron>/ 'æktɪv/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>积极的；活跃的</def>
+            </sense>
+            <sense id="2">
+                <def>主动语态的</def>
+            </sense>
+            <sense id="3">
+                <def>(火山)处于活跃期的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="actively">actively</word>
+            <pron>/'æktɪvli/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>积极地</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="activist">activist</word>
+            <pron>/'æktɪvɪst/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>积极分子；活动家</def>
+            </sense>
+            <runon>
+                <runon-word>activism</runon-word>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="activity">activity</word>
+            <pron>/æk'tɪvəti/</pron>
+            <pos>n</pos>
+            <inflection>(pl activities)</inflection>
+            <sense id="1">
+                <pos>[C]</pos>
+                <def>消遣性活动</def>
+            </sense>
+            <sense id="2">
+                <pos>[C/U]</pos>
+                <def>行动；活动</def>
+            </sense>
+            <sense id="3">
+                <pos>[U]</pos>
+                <def>繁忙</def>
+                <antonym>inactivity</antonym>
+            </sense>
+        </entry>
+        <entry>
+            <word search="actor">actor</word>
+            <pron>/'æktə(r)/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>演员</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="actress">actress</word>
+            <pron>/'æktrəs/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>女演员</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="actual">actual</word>
+            <pron>/ 'æktʃuəl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>实际的；事实上的</def>
+            </sense>
+            <idiom>
+                <idiom-word>in actual fact</idiom-word>
+                <sense>
+                    <style>[英]</style>
+                    <def>实际上；事实上</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="actually">actually</word>
+            <pron>/'æktʃuəli/</pron>
+            <pos>adv</pos>
+            <sense id="1">
+                <def>实际上</def>
+            </sense>
+            <sense id="2">
+                <def>居然；竟然</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acumen">acumen</word>
+            <pron>/ 'ækjəmən/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>敏锐；精明</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acupuncture">acupuncture</word>
+            <pron>/'ækjupʌŋktʃə(r)/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>针刺(疗法)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acute">acute</word>
+            <pron>/ə'kjuːt/</pron>
+            <pos>adj</pos>
+            <inflection>(acuter, acutest)</inflection>
+            <sense id="1">
+                <def>严重的；剧烈的</def>
+            </sense>
+            <sense id="2">
+                <def>锐(角)的</def>
+            </sense>
+            <sense id="3">
+                <def>敏锐的；灵敏的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="acutely">acutely</word>
+            <pron>/ə'kjuːtli/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>强烈地；深切地</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="AD">AD</word>
+            <pron>/ʃðʃqeɪ 'diː/</pron>
+            <sense>
+                <abbr>Anno Domini (</abbr>
+                <def>在)公元</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ad">ad</word>
+            <pron>/æd/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>广告</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="Adam’s apple">Adam’s apple</word>
+            <pron>/ˌædəmz 'æpl/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>喉结</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adamant">adamant</word>
+            <pron>/ 'ædəmənt/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>坚定不移的；固执的</def>
+            </sense>
+            <runon>
+                <runon-word>adamantly</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adapt">adapt</word>
+            <pron>/ ə'dæpt/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <style>[ I]</style>
+                <gram>(to)</gram>
+                <def>适应</def>
+            </sense>
+            <sense id="2">
+                <pos>[T]</pos>
+                <def>使适应；使适合</def>
+            </sense>
+            <sense id="3">
+                <pos>[T]</pos>
+                <def>改编；改写</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adaptable">adaptable</word>
+            <pron>/ə'dæptəbl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>能适应的；适应性强的</def>
+            </sense>
+            <runon>
+                <runon-word>adaptability</runon-word>
+                <pron>/əˌdæptə'bɪləti/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adaptation">adaptation</word>
+            <pron>/ˌædæp'teɪʃn/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[C]</pos>
+                <def>改编；改写</def>
+            </sense>
+            <sense id="2">
+                <pos>[C/U]</pos>
+                <def>适应；适合</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adapter">adapter</word>
+            <gram>(亦作 adaptor)</gram>
+            <pron>/ə'dæptə(r)/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>多用插头</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="add">add</word>
+            <pron>/æd/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <style>[ I/T]</style>
+                <def>增加；添加</def>
+            </sense>
+            <sense id="2">
+                <pos>[T]</pos>
+                <def>补充</def>
+            </sense>
+            <sense id="3">
+                <pos>[T]</pos>
+                <def>把…相加；计算…之和</def>
+            </sense>
+            <phrase>
+                <phrase-word>add (sth) up</phrase-word>
+                <sense>
+                    <def>把…相加；求…的总和</def>
+                </sense>
+            </phrase>
+            <phrase>
+                <phrase-word>not add up</phrase-word>
+                <sense>
+                    <style>[非正式]</style>
+                    <def>说不通；不合理</def>
+                </sense>
+            </phrase>
+        </entry>
+        <entry>
+            <word search="adder">adder</word>
+            <pron>/ 'ædə(r)/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>蝰蛇</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="addict">addict</word>
+            <pron>/'ædɪkt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <style>[ 非正式]</style>
+            <sense>
+                <def>对…上瘾的人；…迷</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="addicted">addicted</word>
+            <pron>/ə'dɪktɪd/</pron>
+            <pos>adj</pos>
+            <style>[非正式]</style>
+            <sense>
+                <gram>(to)</gram>
+                <def>成瘾的；迷上…的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="addiction">addiction</word>
+            <pron>/ ə'dɪkʃn/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <sense>
+                <def>瘾；入迷；嗜好</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="addictive">addictive</word>
+            <pron>/ə'dɪktɪv/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>使人上瘾的；使人入迷的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="addition">addition</word>
+            <pron>/ ə'dɪʃn/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[U]</pos>
+                <def>加；加法</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <def>增加的人(或物)</def>
+            </sense>
+            <idiom>
+                <idiom-word>in addition (to sth)</idiom-word>
+                <sense>
+                    <def>除…之外</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="additional">additional</word>
+            <pron>/ə'dɪʃənl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>附加的；另外的</def>
+            </sense>
+            <runon>
+                <runon-word>additionally</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="additive">additive</word>
+            <pron>/'ædətɪv/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>( 食品)添加剂</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="address">address</word>
+            <homo>1</homo>
+            <pron>/ə'dres/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense id="1">
+                <def>地址；住址</def>
+            </sense>
+            <sense id="2">
+                <def>电子信箱地址；网址</def>
+            </sense>
+            <sense id="3">
+                <def>演说；发言</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="address">address</word>
+            <homo>2</homo>
+            <pron>/ə'dres/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>在(邮件)上写收件人姓名地址</def>
+            </sense>
+            <sense id="2">
+                <def>处理；对付</def>
+            </sense>
+            <sense id="3">
+                <style>[ 正式]</style>
+                <def>对…发表演说</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adept">adept</word>
+            <pron>/ ə'dept/</pron>
+            <pos>adj</pos>
+            <inflection>(at, in)</inflection>
+            <sense>
+                <def>熟练的；擅长的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adequate">adequate</word>
+            <pron>/'ædɪkwət/</pron>
+            <pos>adj</pos>
+            <sense id="1">
+                <def>足够的；充分的</def>
+            </sense>
+            <sense id="2">
+                <def>差强人意的；过得去的</def>
+                <antonym>inadequate</antonym>
+            </sense>
+            <runon>
+                <runon-word>adequately</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adhere">adhere</word>
+            <pron>/əd'hɪə(r)/</pron>
+            <pos>v</pos>
+            <pos>[I]</pos>
+            <sense>
+                <gram>(to)</gram>
+                <style>[正式]</style>
+                <def>黏附；附着</def>
+            </sense>
+            <phrase>
+                <phrase-word>adhere to sth</phrase-word>
+                <sense>
+                    <def>坚持；遵循</def>
+                </sense>
+            </phrase>
+        </entry>
+        <entry>
+            <word search="adherence">adherence</word>
+            <pron>/əd'hɪərəns/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <style>[ 正式]</style>
+            <sense>
+                <def>遵循；遵守</def>
+            </sense>
+            <runon>
+                <runon-word>adherent</runon-word>
+                <pos>n</pos>
+                <pos>[C]</pos>
+                <sense>
+                    <def>拥护者；信徒</def>
+                </sense>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adhesive">adhesive</word>
+            <pron>/əd'hiːsɪv/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>黏合剂</def>
+            </sense>
+            <runon>
+                <runon-word>adhesive</runon-word>
+                <pos>adj</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="ad hoc">ad hoc</word>
+            <pron>/ˌæd 'hɒk/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>特别的；临时权宜的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adjacent">adjacent</word>
+            <pron>/ə'dʒeɪsnt/</pron>
+            <pos>adj</pos>
+            <style>[正式]</style>
+            <sense>
+                <gram>(to)</gram>
+                <def>毗邻的；邻近的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adjective">adjective</word>
+            <pron>/'ædʒɪktɪv/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>形容词</def>
+            </sense>
+            <runon>
+                <runon-word>adjectival</runon-word>
+                <pron>/ˌædʒek'taɪvl/</pron>
+                <pos>adj</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adjoining">adjoining</word>
+            <pron>/ə'dʒɔɪnɪŋ/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>邻接的；毗连的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adjourn">adjourn</word>
+            <pron>/ə'dʒɜːn/</pron>
+            <pos>v</pos>
+            <style>[ I/T]</style>
+            <style>[ 正式]</style>
+            <sense>
+                <def>休(会)；休(庭)；(使)延期</def>
+            </sense>
+            <runon>
+                <runon-word>adjournment</runon-word>
+                <pos>n</pos>
+                <pos>[C]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adjudicate">adjudicate</word>
+            <pron>/ə'dʒuːdɪkeɪt/</pron>
+            <pos>v</pos>
+            <style>[ I/T]</style>
+            <style>[ 正式]</style>
+            <sense>
+                <def>裁定；判决</def>
+            </sense>
+            <runon>
+                <runon-word>adjudication</runon-word>
+                <pron>/əˌdʒuːdɪ'keɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+            <runon>
+                <runon-word>adjudicator</runon-word>
+                <pos>n</pos>
+                <pos>[C]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adjust">adjust</word>
+            <pron>/ə'dʒʌst/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <pos>[T]</pos>
+                <def>调整；校正</def>
+            </sense>
+            <sense id="2">
+                <pos>[I]</pos>
+                <def>适应</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adjustable">adjustable</word>
+            <pron>/ə'dʒʌstəbl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>可调节的；能适应的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adjustment">adjustment</word>
+            <pron>/ə'dʒʌstmənt/</pron>
+            <pos>n</pos>
+            <pos>[C/U]</pos>
+            <sense>
+                <def>调整；校正；适应</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ad lib">ad lib</word>
+            <pron>/ˌæd 'lɪb/</pron>
+            <pos>v</pos>
+            <style>[ I/T]</style>
+            <inflection>(ad libs, ad libbing, ad libbed)</inflection>
+            <sense>
+                <def>即兴演讲；即席表演</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="administer">administer</word>
+            <pron>/əd'mɪnɪstə(r)/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>管理；实施</def>
+            </sense>
+            <sense id="2">
+                <style>[正式]</style>
+                <def>施用(药物)；给予(治疗)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="administration">administration</word>
+            <pron>/ədˌmɪnɪ'streɪʃn/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[U]</pos>
+                <def>管理；行政</def>
+            </sense>
+            <sense id="2">
+                <pos>[U]</pos>
+                <def>施用；给予</def>
+            </sense>
+            <sense id="3">
+                <pos>[C]</pos>
+                <style>[主美]</style>
+                <def>政府</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="administrative">administrative</word>
+            <pron>/əd'mɪnɪstrətɪv/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>管理的；行政的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="administrator">administrator</word>
+            <pron>/əd'mɪnɪstreɪtə(r)/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>管理人员；行政官员</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admirable">admirable</word>
+            <pron>/'ædmərəbl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>令人钦佩的；令人赞赏的</def>
+            </sense>
+            <runon>
+                <runon-word>admirably</runon-word>
+                <pos>adv</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="admiral">admiral</word>
+            <pron>/'ædmərəl/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>海军上将；舰队司令</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admiration">admiration</word>
+            <pron>/ˌædmə'reɪʃn/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>钦佩；赞赏；羡慕</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admire">admire</word>
+            <pron>/əd'maɪə(r)/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense>
+                <def>钦佩；赞赏；羡慕</def>
+            </sense>
+            <runon>
+                <runon-word>admirer</runon-word>
+                <pos>n</pos>
+                <pos>[C]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="admissible">admissible</word>
+            <pron>/əd'mɪsəbl/</pron>
+            <pos>adj</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>( 在法庭上)容许提出的，可采用的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admission">admission</word>
+            <pron>/əd'mɪʃn/</pron>
+            <pos>n</pos>
+            <sense id="1">
+                <pos>[U]</pos>
+                <def>入场费</def>
+            </sense>
+            <sense id="2">
+                <pos>[C]</pos>
+                <def>承认；供认</def>
+            </sense>
+            <sense id="3">
+                <pos>[C/U]</pos>
+                <def>准入；录取</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admit">admit</word>
+            <pron>/əd'mɪt/</pron>
+            <pos>v</pos>
+            <inflection>( admits, admitting, admitted)</inflection>
+            <sense id="1">
+                <pos>[I/T]</pos>
+                <def>承认；供认</def>
+            </sense>
+            <sense id="2">
+                <pos>[T]</pos>
+                <def>接纳；准许…进入</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admittance">admittance</word>
+            <pron>/əd'mɪtns/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>准入；进入(权)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admittedly">admittedly</word>
+            <pron>/əd'mɪtɪdli/</pron>
+            <pos>adv</pos>
+            <sense>
+                <def>诚然；不可否认地</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="admonish">admonish</word>
+            <pron>/əd'mɒnɪʃ/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <style>[正式]</style>
+            <sense>
+                <def>警告；告诫</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="ado">ado</word>
+            <pron>/ə'duː/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>忙乱</def>
+            </sense>
+            <idiom>
+                <idiom-word>without further/more ado</idiom-word>
+                <sense>
+                    <def>不再啰唆地；干脆地</def>
+                </sense>
+            </idiom>
+        </entry>
+        <entry>
+            <word search="adolescence">adolescence</word>
+            <pron>/ˌædə'lesns/</pron>
+            <pos>n</pos>
+            <pos>[U]</pos>
+            <sense>
+                <def>青春(期)</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adolescent">adolescent</word>
+            <pron>/ˌædə'lesnt/</pron>
+            <pos>n</pos>
+            <pos>[C]</pos>
+            <sense>
+                <def>青少年</def>
+            </sense>
+            <runon>
+                <runon-word>adolescent</runon-word>
+                <pos>adj</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adopt">adopt</word>
+            <pron>/ə'dɒpt/</pron>
+            <pos>v</pos>
+            <sense id="1">
+                <pos>[I/T]</pos>
+                <def>收养；领养</def>
+            </sense>
+            <sense id="2">
+                <pos>[T]</pos>
+                <def>采纳；采取</def>
+            </sense>
+            <runon>
+                <runon-word>adopted</runon-word>
+                <pos>adj</pos>
+            </runon>
+            <runon>
+                <runon-word>adoption</runon-word>
+                <pron>/ə'dɒpʃn/</pron>
+                <pos>n</pos>
+                <pos>[C/U]</pos>
+            </runon>
+        </entry>
+        <entry>
+            <word search="adorable">adorable</word>
+            <pron>/ə'dɔːrəbl/</pron>
+            <pos>adj</pos>
+            <sense>
+                <def>可爱的；讨人喜欢的</def>
+            </sense>
+        </entry>
+        <entry>
+            <word search="adore">adore</word>
+            <pron>/ə'dɔː(r)/</pron>
+            <pos>v</pos>
+            <pos>[T]</pos>
+            <sense id="1">
+                <def>崇拜；敬爱</def>
+            </sense>
+            <sense id="2">
+                <def>非常喜爱</def>
+            </sense>
+            <runon>
+                <runon-word>adoration</runon-word>
+                <pron>/ˌædə'reɪʃn/</pron>
+                <pos>n</pos>
+                <pos>[U]</pos>
+            </runon>
+        </entry>
+    </subdict>
+</little-ec>
